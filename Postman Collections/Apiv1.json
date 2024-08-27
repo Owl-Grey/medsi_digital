@@ -13,7 +13,17 @@
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "dfsdfsdfsdfsdf",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://{{domain}}/adminapi/python/proxyapi/profile/profile/v1/user/info"
 			},
 			"response": []
 		}
