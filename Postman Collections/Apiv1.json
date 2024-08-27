@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "05701057-f2a6-434d-8670-bd6917a6d956",
+		"name": "Switch-toggle",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "a8539c23-4f52-4efa-95bb-a607ab5376cb",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
